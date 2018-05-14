@@ -1,0 +1,11 @@
+ El volumen de la unidad D es ALMACEN
+ El n£mero de serie del volumen es: C6B1-CD96
+
+ Directorio de D:\DAW\ETS\GitProyectos\Practica_Git
+
+14/05/2018  20:08    <DIR>          .
+14/05/2018  20:08    <DIR>          ..
+14/05/2018  20:07               373 1.Matias.txt
+14/05/2018  20:08                 0 2.Matias.txt
+               2 archivos            373 bytes
+               2 dirs  377.306.697.728 bytes libres
